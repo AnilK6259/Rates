@@ -13,6 +13,8 @@ public class CortexMain {
 		System.out.println("newChange");
 		
 		System.out.println("newChange by workspace 2");
+		
+		System.out.println("newChange by workspace 1");
 	}
 
 }
